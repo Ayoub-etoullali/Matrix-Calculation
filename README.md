@@ -8,6 +8,7 @@
 
  ----------------------------------------MENU---------------------------------------  
 (1) Multiplication de deux matrice
+
 (2) Multiplication d’une matrice et d’un vecteur 
 (3) Extraction de la 1ère diagonale d’une matrice carree 
 (4) Extraire la 2eme diagonale d’une matrice carree 
