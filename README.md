@@ -1,7 +1,7 @@
 
 # Travail en groupe
 
-###Prepare par :        
+### Prepare par :        
  Aya AIT OULAHYANE   
  Ayoub ETOULLALI     
  Fatima Ezzahra HOUD 
@@ -38,4 +38,4 @@
 
  ----------------------------------------------------------------------------------------
 
-##Veuillez saisair une operation :
+## Veuillez saisair une operation :
