@@ -1,5 +1,5 @@
 
-# Calcul Matriciel
+# Matrix Calculation
 ![Test Image 3](https://raw.githubusercontent.com/Ayoub-etoullali/Calcul_Matriciel/main/menu.jpg)
 
-Ce projet implémente des opérations de base sur les matrices en utilisant le langage C. Le langage C offre des instructions et des structures de haut niveau tout en générant un code rapide grâce à son compilateur performant. Les fonctionnalités clés comprennent la multiplication de matrices, la transformation de matrices en vecteurs, la détermination de la diagonale et du déterminant d'une matrice carrée, la résolution de systèmes linéaires, etc. Ce projet est destiné à toute personne intéressée par les opérations sur les matrices en utilisant le langage C.
+This project implements basic operations on matrices using the C language. The C language offers high-level instructions and structures while generating fast code thanks to its powerful compiler. Key features include multiplying matrices, transforming matrices into vectors, determining the diagonal and determinant of a square matrix, solving linear systems, etc. This project is intended for anyone interested in matrix operations using the C language.
